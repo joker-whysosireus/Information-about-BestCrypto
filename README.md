@@ -1,6 +1,6 @@
-Introduction to the project "Mine BTS!"
+Introduction to the project "Best Crypto"
 
-"Mine BTS" is a mining application inside Telegram, the purpose of which is to create a completely new cryptocurrency in the TON blockchain
+"Best Crypto" is a mining application inside Telegram, the purpose of which is to create a completely new cryptocurrency in the TON blockchain
 
 Our task is to create a token in the TON blockchain, which will be freely traded inside Telegram
 
