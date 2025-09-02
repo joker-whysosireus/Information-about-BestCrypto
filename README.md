@@ -1,6 +1,6 @@
-Introduction to the project "Best Crypto"
+Introduction to the project "Liquid Coin"
 
-"Best Crypto" is a mining application inside Telegram, the purpose of which is to create a completely new cryptocurrency in the TON blockchain
+"Liquid Coin" is a mining application inside Telegram, the purpose of which is to create a completely new cryptocurrency in the TON blockchain
 
 Our task is to create a token in the TON blockchain, which will be freely traded inside Telegram
 
